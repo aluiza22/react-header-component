@@ -4,7 +4,7 @@ import { Devices } from "../core/Devices";
 import { Theme } from "../core/Theme";
 import { Logo } from "./Logo";
 import "../styles.css";
-
+// inspired on https://bit.dev/awazeuk/library/header
 const HeaderContainer = styled.section`
   top: 0;
   left: 0;
