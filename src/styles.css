@@ -10,5 +10,6 @@ body {
 }
 
 .full_section {
-  padding: 60px 0;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
