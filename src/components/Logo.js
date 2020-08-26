@@ -9,6 +9,7 @@ export const Logo = (props) => {
       height={props.height}
       width={props.width}
     >
+      <title>anadev.com.br</title>
       <linearGradient
         id="a"
         gradientUnits="userSpaceOnUse"

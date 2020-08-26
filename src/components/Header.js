@@ -88,7 +88,7 @@ const CenterLinkWithBadge = styled(CenterLink)`
     border-radius: 20px;
   }
 `;
-const LogoContainer = styled.div`
+const LogoContainer = styled.h1`
   width: 170px;
   height: 100%;
   display: flex;
@@ -122,19 +122,19 @@ const MobileMenuIcon = styled.div`
     left: 0;
     &:nth-child(1) {
       top: 12px;
-      background: linear-gradient(to bottom, #a3c839 0, #9fc63a 100%);
+      background: linear-gradient(to bottom, #cb3efd 0, #6267D7 100%);
     }
     &:nth-child(2) {
       top: 22px;
-      background: linear-gradient(to bottom, #8dbb3d 0, #86b73e 100%);
+      background: linear-gradient(to bottom, #6267D7 0, #2265C5 100%);
     }
     &:nth-child(3) {
       top: 22px;
-      background: linear-gradient(to bottom, #8dbb3d 0, #86b73e 100%);
+      background: linear-gradient(to bottom, #2265C5 0, #0E6C97 100%);
     }
     &:nth-child(4) {
       top: 32px;
-      background: linear-gradient(to bottom, #72ac42 0, #6ea943 100%);
+      background: linear-gradient(to bottom, #0E6C97 0, #0aca93 100%);
     }
   }
 `;
